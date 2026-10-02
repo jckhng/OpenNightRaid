@@ -1,0 +1,59 @@
+{
+  "short_taps": [
+    {
+      "pressed_tick": 24,
+      "released_tick": 26,
+      "held_updates": 2,
+      "enhanced_shot_tick": 31
+    },
+    {
+      "pressed_tick": 44,
+      "released_tick": 46,
+      "held_updates": 2,
+      "enhanced_shot_tick": 51
+    },
+    {
+      "pressed_tick": 64,
+      "released_tick": 66,
+      "held_updates": 2,
+      "enhanced_shot_tick": 71
+    },
+    {
+      "pressed_tick": 84,
+      "released_tick": 86,
+      "held_updates": 2,
+      "enhanced_shot_tick": 91
+    }
+  ],
+  "shot_ticks": {
+    "original": [
+      111,
+      121
+    ],
+    "faithful": [
+      111,
+      121
+    ],
+    "enhanced": [
+      31,
+      51,
+      71,
+      91,
+      111,
+      121
+    ]
+  },
+  "same_observed_inputs": true,
+  "faithful_preserves_quirk": true,
+  "enhanced_changes_input_buffering_only": true,
+  "original_page_count": 134,
+  "exact_faithful_at_completed_page": 134,
+  "native_source_frames": 139,
+  "output_fps": 35,
+  "slowdown": 8,
+  "seconds": 15.885714285714286,
+  "audio": "none",
+  "video_sha256": "41487fa25305c25607c1ba136d33debdb3751ee34ddfef09d98ba11fdb018a7d",
+  "original_guest_state_written": false,
+  "full_fidelity_claim": false
+}
